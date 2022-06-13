@@ -1,0 +1,51 @@
+.signIn{
+    background-color: darkgray;
+    padding-bottom: 330px;
+    padding-top: 0px;
+}
+
+.form-control1{
+margin-left: 500px;
+margin-right: 500px;
+padding-left: 10px;
+background-color: antiquewhite;
+border-radius: 10px;
+padding-top: 70px;
+padding-bottom: 35px;
+}
+#sub{
+    border-radius: 10px;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 155px;
+    background-color: greenyellow;
+    font-size:15px;
+    font-family:'Gill Sans';
+}
+#user{
+    border-radius: 5px;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left:0px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
+#pass{
+    border-radius: 5px;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left:0px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+
+
